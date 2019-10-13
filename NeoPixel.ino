@@ -1,4 +1,5 @@
 byte petalCounter = 0;
+byte justin=100;
 
 // Fill the dots one after the other with a color
 void colorWipe(uint32_t c) {
